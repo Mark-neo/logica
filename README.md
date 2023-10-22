@@ -1,1 +1,1 @@
-Meus estudos de lógica de programação
+Meus estudos de lógica de programação utilizando Portugol.
